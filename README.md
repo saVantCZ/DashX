@@ -1,6 +1,9 @@
 # DashX
 Playnite Theme inspired by XBOX Series X Dashboard
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SuKURkR6NvQ/0.jpg)](https://www.youtube.com/watch?v=SuKURkR6NvQ)
+
+
 ### Needed Settings:
 #### Layout
 * 1:1 Square Cover images (sorry, not supporting box covers)
