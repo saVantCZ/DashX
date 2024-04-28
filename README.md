@@ -3,10 +3,11 @@ Playnite Theme inspired by XBOX Series X Dashboard
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SuKURkR6NvQ/0.jpg)](https://www.youtube.com/watch?v=SuKURkR6NvQ)
 
+### Please report bugs! I cannot make theme better without feedback
 
 ### Needed Settings:
 #### Layout
-* 1:1 Square Cover images (sorry, not supporting box covers)
+* 1:1 Square Cover images
 * Columns: 9
 * Rows: 3
 #### Addons
