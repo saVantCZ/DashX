@@ -1,9 +1,16 @@
 # DashX
 Playnite Theme inspired by XBOX Series X Dashboard
 
+
+> [!WARNING]  
+> If using non-standart characters in Windows username (such russian Azbuka etc...) with default playnite install location (appdata) Theme may crash! You need to manually edit path for extrametadata plugin inside constants.xaml
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SuKURkR6NvQ/0.jpg)](https://www.youtube.com/watch?v=SuKURkR6NvQ)
 
 ### Please report bugs! I cannot make theme better without feedback
+
+
 
 ### Needed Settings:
 #### Layout
