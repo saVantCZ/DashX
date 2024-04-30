@@ -17,4 +17,15 @@ Packages:
       - Removed MoreDashboardItems
       - Added Filter Presets on Dashboard toggle in Constants
       - Added Fake Store Trailers
+      - Added Xbox sounds
       - Modified some Text layouts
+  - Version: 1.0.2
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-04-30
+    PackageUrl: https://github.com/saVantCZ/DashX/releases/download/v1.0.2/DashX_saVantCZ_1_0_2.pthm
+    Changelog:
+      - HotFix release
+      - Your Constants.xaml will restart!
+      - Actually added Xbox sounds, sorry
+      - Tweaked one default Dash image
+
