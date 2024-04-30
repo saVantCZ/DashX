@@ -7,15 +7,4 @@ Packages:
     Changelog:
       - Inital Beta Release
       - Bugs are expected, please report
- - Version: 1.0.1
-    RequiredApiVersion: 2.6.0
-    ReleaseDate: 2024-04-30
-    PackageUrl: https://github.com/saVantCZ/DashX/releases/download/v1.0.1/DashX_saVantCZ_1_0_1.pthm
-    Changelog:
-      - Your Constants.xaml will reset!
-      - Minor performance fixes
-      - Removed "More Dash Items" and replaced with Filter Preset toggle (default off)
-      - Added Trailer to Fake Store
-      - Small re-design to Dashboard Items text
-      - Added Xbox navigation sounds
-      - Some small fixes
+
