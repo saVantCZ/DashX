@@ -28,4 +28,18 @@ Packages:
       - Your Constants.xaml will restart!
       - Actually added Xbox sounds, sorry
       - Tweaked one default Dash image
+  - Version: 2.0.0
+    RequiredApiVersion: 2.6.0
+    ReleaseDate: 2024-06-28
+    PackageUrl: https://github.com/saVantCZ/DashX/releases/download/v2.0.0/DashX_saVantCZ_2_0_0.pthm
+    Changelog:
+      - Theme Options addon support!
+      - Theme Options is required to use theme
+      - You can choose User color with Presets within Theme Options
+      - Fixed theme not launching in some scenarios
+      - Performance boost in grid view
+      - Simplified main dashboard animation for performance boost
+      - Game Details focus on action button instead of Trailer
+      - Added steam screenshots to right side of game detals
+      - Added darken uninstalled games
 
