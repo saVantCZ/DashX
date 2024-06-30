@@ -3,7 +3,7 @@ Playnite Theme inspired by XBOX Series X Dashboard
 
 
 > [!WARNING]  
-> If using non-standart characters in Windows username (such russian Azbuka etc...) with default playnite install location (appdata) Theme may crash! You need to manually edit path for extrametadata plugin inside constants.xaml
+> Theme Options plugin required
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SuKURkR6NvQ/0.jpg)](https://www.youtube.com/watch?v=SuKURkR6NvQ)
@@ -15,19 +15,9 @@ Playnite Theme inspired by XBOX Series X Dashboard
 ### Needed Settings:
 #### Layout
 * 1:1 Square Cover images
-* Columns: 9
 * Rows: 3
 #### Addons
 * ExtraMetadata
 * SuccessStory for Achievements
+* Theme Options for Theme settings
 
-
-#### Edit in Constants.xaml
-* Custom User Name
-* Custom Theme Color
-* Custom Static Background
-* Custom Video Background
-* Toggles for extras
-
-#### You are reqired to edit Constants.xaml to use theme
-* Required to edit file and change EditFile bool to True!
