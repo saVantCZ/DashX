@@ -20,4 +20,5 @@ Playnite Theme inspired by XBOX Series X Dashboard
 * ExtraMetadata
 * SuccessStory for Achievements
 * Theme Options for Theme settings
+* SteamScreenshots plugin by darklinkpower
 
